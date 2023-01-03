@@ -1,40 +1,43 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 .microshoft{
-    height:400px;
-    width:500px;
-    padding:300px;
-    display:inline-flex;
+    padding:100px 100px;
+}
+.mic1{
+    height:100px; 
+    width:250px;
+    display:flex;
+    margin:5px 0 0 0;
 }
 .red{
-    background-color:#F25022;
     height:100px;
-    width:150px; 
-    margin:5px;
+    width:50%;
+    background-color:#F35325;
+    margin:0 3px;
+    border-radius:3px
 }
 .green{
-    background-color:#7FBA00;
     height:100px;
-    width:150px; 
-    margin:5px;
+    width:50%;
+    margin:0 3px;
+    border-radius:3px;
+    background-color:#81BC06;
 }
 .mic2{
-    display:inline-flex;
-    position:absolute;
-    left: 300px;
-    bottom: 98px;
+    height:100px;
+    width:250px;
+    display: flex;
+    margin:5px 0 0 0;
 }
 .sky{
-    background-color:#00A4EF;
-    height:100px;
-    width:150px;
-    margin:5px; 
+    height: 100px;
+    width:50%;
+    margin:0 3px;
+    border-radius: 5px;
+    background-color:#05A6F0;
 }
 .yellow{
-    background-color:#FFB900;
-    height:100px;
-    width:150px; 
-    margin:5px;
+    height: 100px;
+    width:50%;
+    margin:0 3px;
+    border-radius:5px;
+    background-color:#F7B408;
 }
