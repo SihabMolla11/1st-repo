@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.microshoft{
+    height:400px;
+    width:500px;
+    padding:300px;
+    display:inline-flex;
+}
+.red{
+    background-color:#F25022;
+    height:100px;
+    width:150px; 
+    margin:5px;
+}
+.green{
+    background-color:#7FBA00;
+    height:100px;
+    width:150px; 
+    margin:5px;
+}
+.mic2{
+    display:inline-flex;
+    position:absolute;
+    left: 300px;
+    bottom: 98px;
+}
+.sky{
+    background-color:#00A4EF;
+    height:100px;
+    width:150px;
+    margin:5px; 
+}
+.yellow{
+    background-color:#FFB900;
+    height:100px;
+    width:150px; 
+    margin:5px;
+}
